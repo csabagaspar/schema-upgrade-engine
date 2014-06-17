@@ -7,6 +7,11 @@
 gradle.properties
 proxy.env
 
+
+#intellij
+.idea
+*.iml
+
 *.class
 *.jar
 *.zip
